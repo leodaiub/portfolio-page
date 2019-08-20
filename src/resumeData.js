@@ -41,28 +41,41 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"PostgreSQL"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Tindev",
+        "description":"https://leodaiub-tindev.netlify.com/",
+        "imgurl":"images/portfolio/tindev.png",
+        "url": "https://leodaiub-tindev.netlify.com/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Instaclone",
+        "description":"https://leodaiub-instaclone.netlify.com/",
+        "imgurl":"images/portfolio/instaclone.png",
+        "url": "https://leodaiub-instaclone.netlify.com/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"WordPress Blog",
+        "description":"https://leonardodaiub.com/",  
+        "imgurl":"images/portfolio/blog.png",
+        "url": "https://leonardodaiub.com/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Smart Brain",
+        "description":"https://leodaiub-smartbrain.netlify.com/",
+        "imgurl":"images/portfolio/smart-brain.png",
+        "url": "https://leodaiub-smartbrain.netlify.com/"
+      },
+      {
+        "name":"React Portfolio",
+        "description":"https://projetos.leonardodaiub.com/",
+        "imgurl":"images/portfolio/portfolio.png",
+        "url": "https://projetos.leonardodaiub.com/"
       }
     ],
     "testimonials":[
