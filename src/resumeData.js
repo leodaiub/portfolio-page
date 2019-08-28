@@ -67,7 +67,7 @@ let resumeData = {
       },
       {
         "name":"Smart Brain",
-        "description":"https://leodaiub-smartbrain.netlify.com/",
+        "description":"https://leodaiub-facerec.netlify.com/",
         "imgurl":"images/portfolio/smart-brain.png",
         "url": "https://leodaiub-smartbrain.netlify.com/"
       },
